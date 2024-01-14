@@ -1,3 +1,14 @@
+001 Firebase
+https://firebase.google.com/
+
+001 Precios-de-Firebase
+https://firebase.google.com/pricing
+
+002 Estilos-CSS
+https://pastebin.com/vgdJxNaW
+
+----------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
