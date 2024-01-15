@@ -7,6 +7,10 @@ https://firebase.google.com/pricing
 002 Estilos-CSS
 https://pastebin.com/vgdJxNaW
 
+cli
+npm run build
+firebase init hosting
+firebase deploy --only hosting
 ----------------
 
 # Getting Started with Create React App
